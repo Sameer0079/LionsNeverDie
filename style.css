@@ -1,7 +1,7 @@
 body{
   background-image: url("images/water_color_bg.jpg");
   /* background-image: url("images/chris.jpg"); */
-  /* min-height: 380px; */
+  min-height: 100%;
   /* Center and scale the image nicely */
   height:100%;
   margin:0;
