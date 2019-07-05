@@ -2,7 +2,7 @@ function validate(){
   let uname=document.getElementById("uname").value;
   let pass=document.getElementById("pass").value;
   let result=true;
-  ((pass.length>=8) && (pass.length<15)) ? (!(uname=="sameer") || !(pass=="123456789")) ? result=false :result=true : result=false
+  ((pass.length>=8) && (pass.length<15)) ? (!(uname=="sameer") || !(pass=="12345678")) ? result=false :result=true : result=false
   return result;
 }
 
