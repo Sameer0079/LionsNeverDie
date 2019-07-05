@@ -3,6 +3,7 @@ body{
   /* background-image: url("images/chris.jpg"); */
   /* min-height: 380px; */
   /* Center and scale the image nicely */
+  height:100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
