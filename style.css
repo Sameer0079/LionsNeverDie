@@ -30,6 +30,7 @@ body{
   padding: 10px;
   border: none;
   box-shadow: 0 5px 80px 22px #888888;
+  -webkit-box-shadow: 0 0 0px 1000px white inset;
 }
 #pass{
   width: 170px;
