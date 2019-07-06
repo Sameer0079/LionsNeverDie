@@ -25,15 +25,21 @@ body{
   border-color: #115486;
 }
 #uname{
+  width: 170px;
+  height: 15px;
   padding: 10px;
   border: none;
+  box-shadow: 0 5px 80px 22px #888888;
 }
 #pass{
+  width: 170px;
+  height: 15px;
   padding: 10px;
   border: none;
 }
 label{
   font-size: 20px;
+  text-align: center;
 }
 form{
   border-radius: 15px;
@@ -55,6 +61,7 @@ form{
   /* box-shadow: 5px 10px 18px black; */
   box-shadow: 0 5px 80px 22px #888888;
 }
+
 #eye1{
   display: none;
 }
@@ -68,4 +75,9 @@ footer{
   color: #888888;
   text-align: center;
   margin-top: 50px;
+}
+
+#idIcon,#passIcon{
+  inline-size: 20px;
+  margin-right: 5px;
 }
